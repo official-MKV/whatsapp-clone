@@ -1,0 +1,1 @@
+const note1="Add a night mode"
