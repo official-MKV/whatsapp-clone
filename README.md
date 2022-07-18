@@ -1,2 +1,2 @@
-##TODO
-1. Add dark theme
+## TODO
+1. **Add dark theme**
